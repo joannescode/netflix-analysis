@@ -1,6 +1,6 @@
 # Análise de Filmes da Netflix com Menos de 60 Minutos
 
-Projeto criado para conclusão de uma das etapas do curso de Python Development da [Datacamp](https://www.datacamp.com/).
+Projeto criado para conclusão de uma das etapas do curso de Python Developer da [Datacamp](https://www.datacamp.com/).
 
 ## Objetivo
 O objetivo principal deste projeto é demonstrar o tratamento de dados utilizando Python 3, juntamente com as bibliotecas Pandas e Matplotlib. Exploramos o processo de manipulação e análise de dados, buscando compreender se atualmente, grande parte dos filmes lançados tem sua duração menor que 60 minutos.
